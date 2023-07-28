@@ -1,6 +1,6 @@
 # Blackjack with Clojure!
 
-A Clojure project based in a existent project just for practicing my studies.
+A Clojure project based on a existent project just for practicing my studies.
 
 ## Based on
 
